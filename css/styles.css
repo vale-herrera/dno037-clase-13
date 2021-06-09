@@ -51,9 +51,9 @@
 
 body {
   margin: 0;
-  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family:'Overpass', sans-serif;  
   font-size: 1rem;
-  font-weight: 400;
+  font-weight: 300;
   line-height: 1.5;
   color: #212529;
   background-color: #fff;
@@ -2948,13 +2948,13 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #1D809F;
-  border-color: #1D809F;
+  background-color: #DEA691;
+  border-color: #daaea3;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #196d87;
-  border-color: #17667f;
+  background-color: #E8BEB0;
+  border-color: #E8BEB0;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
@@ -6101,7 +6101,7 @@ textarea.form-control-lg {
 }
 
 .link-primary {
-  color: #1D809F;
+  color: #e9c4b6;
 }
 .link-primary:hover, .link-primary:focus {
   color: #17667f;
@@ -7389,7 +7389,7 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-  background-color: #1D809F !important;
+  background-color: #C69380 !important;
 }
 
 .bg-secondary {
@@ -10991,12 +10991,12 @@ footer.footer .social-link {
   width: 4rem;
   line-height: 4.3rem;
   font-size: 1.5rem;
-  background-color: #ddb2a7;
+  background-color: #DEA691;
   transition: background-color 0.15s ease-in-out;
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
 }
 footer.footer .social-link:hover {
-  background-color: #155d74;
+  background-color: #E8BEB0;
   text-decoration: none;
 }
 
