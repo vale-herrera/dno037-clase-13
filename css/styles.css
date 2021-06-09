@@ -10839,6 +10839,10 @@ html {
   height: 100%;
 }
 
+h1{
+  font-family: 'Paytone One', sans-serif;
+}
+
 .content-section {
   padding-top: 7.5rem;
   padding-bottom: 7.5rem;
