@@ -4435,7 +4435,7 @@ textarea.form-control-lg {
 }
 .accordion-button:not(.collapsed) {
   color: #1a738f;
-  background-color: #e8f2f5;
+  background-color:  #DAAEA3;
   box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.125);
 }
 .accordion-button:not(.collapsed)::after {
@@ -7337,7 +7337,7 @@ textarea.form-control-lg {
 }
 
 .text-secondary {
-  color: #ecb807 !important;
+  color: #8D543F !important;
 }
 
 .text-success {
@@ -10865,14 +10865,14 @@ html {
   height: 50px;
   text-align: center;
   color: #fff;
-  background: rgba(52, 58, 64, 0.5);
+  background: rgba(169, 101, 76, 0.7);
   line-height: 45px;
 }
 .scroll-to-top:focus, .scroll-to-top:hover {
   color: #fff;
 }
 .scroll-to-top:hover {
-  background: #343a40;
+  background: #DAAEA3;
 }
 .scroll-to-top i {
   font-weight: 800;
@@ -10951,7 +10951,7 @@ html {
   height: 50px;
   text-align: center;
   color: #fff;
-  background: rgba(52, 58, 64, 0.5);
+  background: rgba(169, 101, 76, 0.7);
   line-height: 50px;
   z-index: 999;
 }
@@ -10959,7 +10959,7 @@ html {
   color: #fff;
 }
 .menu-toggle:hover {
-  background: #343a40;
+  background: #DAAEA3;
 }
 
 .btn-xl {
@@ -11101,7 +11101,7 @@ footer.footer .social-link:hover {
             clip-path: inset(2rem);
   }
   .portfolio-item:hover .caption {
-    background-color: rgba(29, 128, 159, 0.9);
+    background-color: rgba(198, 147, 128, 0.9);
     -webkit-clip-path: inset(2rem);
             clip-path: inset(2rem);
   }
